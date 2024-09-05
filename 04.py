@@ -18,5 +18,6 @@ e) 1, 1, 2, 3, 5, 8, ____
     próximo: 13
 f) 2,10, 12, 16, 17, 18, 19, ____
     não foi possível identificar a sequência
+    motivo: valor inconstante
 '''
 
